@@ -39,6 +39,8 @@ The system calculates attendance percentage using:
 
 ```text
 Attendance Percentage = (Attended Classes / Total Classes) × 100
+```
+
 ## 🖥️ Project Screenshots
 
 ### 📝 Add Student
@@ -76,3 +78,4 @@ School-Attendance-System/
     ├── attendance-table.png
     ├── attendance-percentage.png
     └── exit.png
+```
